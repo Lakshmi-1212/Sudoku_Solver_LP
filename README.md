@@ -6,7 +6,8 @@
 
 Here we will be using the PuLP package in Python to solve this linear programming problem.
 
-**Steps to solve the Sudoku problem: ** 
+**Steps to solve the Sudoku problem: **   
+
 Step 1: Define the Linear Programming problem  
 Step 2: Set the objective function  
 Step 3: Define the decision variables   
